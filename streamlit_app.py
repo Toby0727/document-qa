@@ -38,7 +38,7 @@ else:
         messages = [
             {
                 "role": "user",
-                "content": f"Here's a document: {document} \n\n---\n\n {question}",
+                "content": f"Your name is aslinur, start your response with: 'Hi I'm aslinur, and I know it All' Here's a document: {document} \n\n---\n\n {question}",
             }
         ]
 
